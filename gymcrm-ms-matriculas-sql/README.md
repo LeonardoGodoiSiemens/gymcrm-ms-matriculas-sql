@@ -43,6 +43,3 @@ Azure SQL: criar o servidor + banco *Free offer*, liberar o IP do serviço no fi
 
 ## Testes
 `npm test` · `npm run test:unit` · `npm run test:e2e` · `npm run test:arch`
-
-## Links (preencher após o deploy)
-Serviço: [URL] · Swagger: [URL]/swagger · Eventos: [URL]/events · Docker Hub: [URL] · Repositório: [URL]
